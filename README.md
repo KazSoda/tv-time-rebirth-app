@@ -4,6 +4,8 @@
   <img src="frontend/assets/logo.png" alt="TV Time Rebirth" width="140" />
 </p>
 
+Suite à la fermeture de TV Time, beaucoup de gens se sont retrouvés sans option pour suivre leurs films et séries... C'est pourquoi TV Time Rebirth existe.
+
 Une application mobile **auto-hébergée** pour suivre tes séries et tes films : ce que tu as vu, ce qu'il te reste à voir et les prochaines sorties. Le projet est né de la fermeture de TV Time, pour retrouver le même usage en gardant la main sur ses données.
 
 Il n'y a **pas de serveur public** : chacun déploie son propre backend et compile sa propre application, pour soi, sa famille ou ses amis.
