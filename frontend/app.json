@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "TV Time Rebirth",
+    "slug": "tv-time-rebirth",
+    "version": "1.6.3",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#1a1a2e",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#162032"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "icon": "./assets/logo.png",
+      "predictiveBackGestureEnabled": false,
+      "package": "tv.time.rebirth"
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    }
+  }
+}
